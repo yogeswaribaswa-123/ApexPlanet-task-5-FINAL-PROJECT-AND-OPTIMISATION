@@ -16,3 +16,5 @@ A complete capstone project showcasing my web development skills.
 OUTPUT:
 
 <img width="1581" height="673" alt="Image" src="https://github.com/user-attachments/assets/d5045c8f-f65c-417d-8876-86eaee05dd67" />
+
+<img width="1412" height="785" alt="Image" src="https://github.com/user-attachments/assets/c8bf6e1c-f005-4f36-9dd7-847f3b1a645c" />
