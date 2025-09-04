@@ -14,3 +14,5 @@ Focus areas: speed, compatibility, and user-friendly design.
 A complete capstone project showcasing my web development skills.
 
 OUTPUT:
+
+<img width="1581" height="673" alt="Image" src="https://github.com/user-attachments/assets/d5045c8f-f65c-417d-8876-86eaee05dd67" />
